@@ -10,7 +10,7 @@ This project explores an online retail dataset to understand sales performance, 
 - Google Colab
 
 ## Dataset
-Source: UCI Machine Learning Repository - Online Retail Dataset
+Source: [UCI Machine Learning Repository – Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
 
 The dataset contains 541,909 transaction records covering December 2010 to December 2011.
 
