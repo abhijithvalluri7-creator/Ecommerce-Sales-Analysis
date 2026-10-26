@@ -60,5 +60,15 @@ Negative cancellation lines totaled approximately £896,812 in absolute value.
 ## Project Notebook
 [View the complete analysis](Day01_Ecommerce_Sales_Analysis.ipynb)
 
+## How to Run This Project
+
+1. Download the `Online Retail.xlsx` dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail).
+2. Open `Day01_Ecommerce_Sales_Analysis.ipynb` in Google Colab.
+3. Upload the dataset to the Colab Files panel.
+4. Make sure the uploaded file is named `Online Retail.xlsx`.
+5. Run all notebook cells in order to reproduce the analysis and visualizations.
+
+**Tools required:** Python, Pandas, Matplotlib, and Google Colab.
+  
 ## Author
 Abhijith Valluri
